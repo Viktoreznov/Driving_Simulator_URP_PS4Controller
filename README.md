@@ -1,6 +1,6 @@
 # Driving_Simulator_URP_PS4Controller
 
-# VERY VERY IMPORTANT just open the folder containing the assets and project settings folder, go to the scence named "0" if you got some error you can just ignore them and 
+# VERY VERY IMPORTANT just open the folder containing the assets and project settings folder, go to the scence named "0" if you got some error you can just ignore them and if
 # everything is messed up just go install the Universal Render Pipeline from the package manager and fine you are good to go.
 # The light might cause you some issues so make sure you start and turn it off couple times and it i'll get fixed.
 
