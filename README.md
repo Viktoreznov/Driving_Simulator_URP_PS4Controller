@@ -22,6 +22,7 @@
   This project uses a PS4 controller, i didn't really work on implementing other one and here's a quick over view.
   
   # Keyboard : 
+  TAB: Start Engine
   C -> Changing camera
   L -> Light
   Space -> Hand brake.
@@ -37,6 +38,8 @@
   R2 -> Gear box down
   
   inside the setting folder you can find 2 controllers presets, use the fixed one in case the default didn't work 
+  Update: inside the "Driving_Simulator_URP_PS4Controller/Assets/Settings/Presets/Controle/" you can find the InputManager preset, apply this using a wired controller in order for the game to work correctly.
+  THE GAME DOESN'T SUPPORT ANY OTHER TYPES OF CONTROLLERS YET
   
   # IMPORTANT : I USED A WIRED PS4 CONTROLLER
   
@@ -49,11 +52,8 @@
   
   # Environement
   
-  from the asset store and its not a well done environement but it was good for my testings, i tweaked a bit with the textures and upgraded to URP for a good looking results.
+  from the asset store and its not a well done environement but it was good for my testings, I tweaked a bit with the textures and upgraded to URP for a good looking results.
   
-  # Scripts 
-  
-  Well the code is not optimized so be carful with it, i kept it like that as long as it had the job done, i should fix some stuffs here and there but its okay cause as i mentioned many times it was my first time dealing with a wheel collider.
   
   
   
